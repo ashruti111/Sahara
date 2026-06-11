@@ -1,0 +1,30 @@
+{
+  "name": "rakshyak",
+  "version": "2.0.0",
+  "description": "RAKSHYAK Emergency Response System - Complete Solution",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "mysql2": "^3.6.5",
+    "selfsigned": "^5.5.0",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "emergency",
+    "sos",
+    "alert",
+    "response",
+    "safety"
+  ],
+  "author": "RAKSHYAK",
+  "license": "MIT"
+}
