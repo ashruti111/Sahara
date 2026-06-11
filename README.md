@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAKSHYAK – Complete Setup Guide (XAMPP + MySQL Edition)
 
 ---
@@ -196,3 +197,7 @@ If you set a custom MySQL password in XAMPP, edit `server.js` line:
 ```js
 password: '',  // ← put your password here
 ```
+=======
+# Sahara
+SAHARA (सहारा) is a smart emergency response platform for Nepal that enables users to send instant SOS alerts with GPS location and optional photo evidence. Built with Flutter, Laravel, and React, it provides real-time notifications, live emergency tracking, offline support, and analytics to improve emergency response and public safety.
+>>>>>>> b713aa3064001722a212815702af6da42ea28843
